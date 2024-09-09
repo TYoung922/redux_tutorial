@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+I changed the increment to be +3 while setting the decrement to be -2.
+In addition when +3 is pushed it changes the colore of the counter to green and when the -2 is pushed it is changed to red.
+I added a button that when clicked changes the sign_in state. When this new button is pushed the information changes revealing a new one.
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->

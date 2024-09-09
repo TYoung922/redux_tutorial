@@ -2,6 +2,9 @@ I changed the increment to be +3 while setting the decrement to be -2.
 In addition when +3 is pushed it changes the colore of the counter to green and when the -2 is pushed it is changed to red.
 I added a button that when clicked changes the sign_in state. When this new button is pushed the information changes revealing a new one.
 
+like most servers once everything is downloaded and all packages are added simply run
+npm start and it should all work for you.
+
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
